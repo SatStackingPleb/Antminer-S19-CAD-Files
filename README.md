@@ -1,2 +1,2 @@
-# s19-extruded-aluminum-CAD
-S19 Extruded aluminum enclosure CAD file to use in your project modeling
+# S19 CAD FILES
+Here are files that have been shared with me or that I have created while retrofitting S19 hardware. Use them to model your retorfits and heatpunk projects. 
